@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
