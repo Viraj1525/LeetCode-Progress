@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
 ## Backtracking
@@ -109,10 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
