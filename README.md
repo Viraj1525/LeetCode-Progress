@@ -55,18 +55,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
