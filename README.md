@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -163,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
