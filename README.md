@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
