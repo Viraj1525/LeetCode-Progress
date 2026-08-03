@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 ## Binary Search
@@ -106,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
