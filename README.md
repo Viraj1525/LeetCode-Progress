@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search Tree
 |  |
 | ------- |
