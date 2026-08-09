@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0258-add-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
