@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
+| [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
+| [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
+| [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
