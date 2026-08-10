@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0896-monotonic-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -242,10 +245,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
