@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0896-monotonic-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
