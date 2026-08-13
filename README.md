@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0213-house-robber-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
