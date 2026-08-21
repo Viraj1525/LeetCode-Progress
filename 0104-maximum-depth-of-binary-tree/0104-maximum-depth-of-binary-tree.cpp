@@ -11,24 +11,8 @@
  */
 class Solution {
 public:
-
-    int ans = 1;
-
-    void preorder(TreeNode* root, int height){
-        if(root == NULL) {
-            ans = max(height,ans);
-            height = 0;
-            return;
-        }
-        height++;
-        preorder(root->left, height);
-        preorder(root->right, height);
-    }
-
     int maxDepth(TreeNode* root) {
-        if(root == NULL) return 0;
-        int height = 0;
-        preorder(root, height);
-        return ans;
+        if(!root) return 0;
+        return 1 + max(maxDepth(root->left),maxDepth(root->right));
     }
 };
