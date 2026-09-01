@@ -1,0 +1,34 @@
+class Solution {
+public:
+    string removeDuplicateLetters(string s) {
+        int n = s.length();
+        vector<int> last(26,0);
+
+        for(int i=0; i<n; i++){
+            last[s[i] - 'a'] = i;
+        }
+
+        string st;
+        vector<bool>used(26,false);
+
+        for(int i=0; i<n; i++){
+            char ch = s[i];
+
+            if(used[ch - 'a']){
+                continue;
+            }
+
+            while(!st.empty() && st.back() > ch && last[st.back() - 'a'] > i){
+                used[st.back() - 'a'] = false;
+                st.pop_back(); 
+            }
+
+            st.push_back(ch);
+            used[ch - 'a'] = true;
+        }
+
+        return st;
+
+        
+    }
+};
