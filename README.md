@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -309,5 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
