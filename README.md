@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
+| [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
