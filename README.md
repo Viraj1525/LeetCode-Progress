@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0633-sum-of-square-numbers) |
 | [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Brainteaser
 |  |
 | ------- |
