@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0213-house-robber-ii) |
 | [0414-third-maximum-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
+| [0835-image-overlap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0896-monotonic-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0835-image-overlap) |
 ## Recursion
 |  |
 | ------- |
