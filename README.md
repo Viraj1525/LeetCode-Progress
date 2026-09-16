@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
