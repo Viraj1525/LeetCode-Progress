@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
