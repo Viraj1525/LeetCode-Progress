@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0887-super-egg-drop](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1025-divisor-game) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -367,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
