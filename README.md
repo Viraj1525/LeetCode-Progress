@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
