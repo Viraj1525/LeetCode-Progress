@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3665-twisted-mirror-path-count) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3665-twisted-mirror-path-count) |
 ## Brainteaser
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0835-image-overlap) |
+| [3665-twisted-mirror-path-count](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
