@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
