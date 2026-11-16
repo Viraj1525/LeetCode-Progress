@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0940-distinct-subsequences-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
