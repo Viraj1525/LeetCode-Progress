@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Viraj1525/LeetCode-Progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Viraj1525/LeetCode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Viraj1525/LeetCode-Progress/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bracket Sequences
 |  |
 | ------- |
